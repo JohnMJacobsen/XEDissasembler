@@ -1,0 +1,12 @@
+.obj intake
+    - file read and in usable form
+.sym intake
+    - file read and in usable form
+symtab generation
+    - create dictionary from .sym file
+        - structure? hashmap grabbing by key
+        
+.obj processing
+    - breakdown using symtab and sicxe instruction set
+.sic creation
+.lis creation
